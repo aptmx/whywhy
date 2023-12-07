@@ -1,0 +1,2 @@
+path:"S:/root/product/pic/coffee", left:10
+path:"S:/root/product/pic/cukin.png", left:10
